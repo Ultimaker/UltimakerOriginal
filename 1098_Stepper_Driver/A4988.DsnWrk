@@ -1,0 +1,6 @@
+[ProjectGroup]
+Version=1.0
+[Project1]
+ProjectPath=A4988.PrjPCB
+[Project2]
+ProjectPath=..\..\Mainboard-\Ultimaker32.PrjPCB
